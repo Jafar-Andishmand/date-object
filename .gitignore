@@ -1,8 +1,2 @@
 /node_modules
-/dist
-/calendars/es
-/calendars/umd
-/locales/es
-/locales/umd
-__.js
 npm-debug.log*
